@@ -1,2 +1,1 @@
-# oshitime.github.io
-Hallo
+# OshiTime
